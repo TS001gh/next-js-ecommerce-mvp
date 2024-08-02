@@ -1,0 +1,6 @@
+/* how Omit works in TypeScript
+
+  ==> In TypeScript, Omit is a utility type that creates a new type by picking all properties from an existing type and then removing specified keys.
+
+==> cp .env ./node_modules/react-email  : this mean we have access to run react email just in development mode 
+*/
